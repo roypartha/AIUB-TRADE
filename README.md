@@ -16,4 +16,4 @@ Sellers receive payment for their items through the website, which is then trans
 Overall, AIUB Trade is a convenient and reliable platform for university students to buy and sell their used items.
 Whether you are looking for textbooks, sporting equipment, or electronics, AIUB Trade has got you covered.
 # License
-This project is licensed under the MIT License- see the LICENSE.md file for details.
+This project is licensed under the [MIT License](LICENSE.md); see the LICENSE.md file for details.
